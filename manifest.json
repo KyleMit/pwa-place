@@ -2,7 +2,7 @@
     "name": "Azure Devops",
     "short_name": "Azure Devops",
     "start_url": "/index.html?href=https://dev.azure.com/dealerpolicy/DealerPolicy",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#fff",
     "description": "PWA Wrapper for Azure Devops",
     "icons": [{
